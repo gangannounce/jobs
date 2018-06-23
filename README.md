@@ -1,5 +1,5 @@
 # GANG Job Board
----
+<a href="http://michigandevs.com/" alt="Join Michigan Devs Slack"><img src="https://img.shields.io/badge/slack-join%20now-green.svg?longCache=true&style=social" /></a>
 Welcome to the GANG jobs board.
 
 Please create an issue in the [issues tab](https://github.com/gangannounce/jobs/issues).
